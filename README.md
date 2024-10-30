@@ -1,1 +1,1 @@
-# JP-Morgan-Data-Visualization-Data-Story-telling-using-Excel
+This project aims to create a Data Visualization Excel by implementing Conditional Formatting, Pivot tables and VBA macros. Through the visualization, I was successfully able to analyse the data and tell data-driven story with valuable insights.
